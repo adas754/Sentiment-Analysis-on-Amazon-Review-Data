@@ -6,3 +6,4 @@
 # How to run -> After creating enviornment write conda activate streamlit
 # py -m streamlit run rev.py    
 # how to run flask application - python sent.py
+# run fast api application 
