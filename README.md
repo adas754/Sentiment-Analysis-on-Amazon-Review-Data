@@ -7,3 +7,4 @@
 # py -m streamlit run rev.py    
 # how to run flask application - python sent.py
 # run fast api application 
+# Deployment Link - https://sentiment-analysis-on-amazon-review-data-g7nxtcvahbxcuw9883oxz.streamlit.app/
